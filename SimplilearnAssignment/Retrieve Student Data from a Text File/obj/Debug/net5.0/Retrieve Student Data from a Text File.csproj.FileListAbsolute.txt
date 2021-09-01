@@ -1,0 +1,16 @@
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\bin\Debug\net5.0\Retrieve Student Data from a Text File.exe
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\bin\Debug\net5.0\Retrieve Student Data from a Text File.deps.json
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\bin\Debug\net5.0\Retrieve Student Data from a Text File.runtimeconfig.json
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\bin\Debug\net5.0\Retrieve Student Data from a Text File.runtimeconfig.dev.json
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\bin\Debug\net5.0\Retrieve Student Data from a Text File.dll
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\bin\Debug\net5.0\ref\Retrieve Student Data from a Text File.dll
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\bin\Debug\net5.0\Retrieve Student Data from a Text File.pdb
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\obj\Debug\net5.0\Retrieve Student Data from a Text File.csproj.AssemblyReference.cache
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\obj\Debug\net5.0\Retrieve Student Data from a Text File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\obj\Debug\net5.0\Retrieve Student Data from a Text File.AssemblyInfoInputs.cache
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\obj\Debug\net5.0\Retrieve Student Data from a Text File.AssemblyInfo.cs
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\obj\Debug\net5.0\Retrieve Student Data from a Text File.csproj.CoreCompileInputs.cache
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\obj\Debug\net5.0\Retrieve Student Data from a Text File.dll
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\obj\Debug\net5.0\ref\Retrieve Student Data from a Text File.dll
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\obj\Debug\net5.0\Retrieve Student Data from a Text File.pdb
+C:\Users\10069851\source\repos\Simplilearn_Assignments\Retrieve Student Data from a Text File\obj\Debug\net5.0\Retrieve Student Data from a Text File.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Retrieve Student Data from a Text File/1.0.0": {
+        "runtime": {
+          "Retrieve Student Data from a Text File.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Retrieve Student Data from a Text File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
