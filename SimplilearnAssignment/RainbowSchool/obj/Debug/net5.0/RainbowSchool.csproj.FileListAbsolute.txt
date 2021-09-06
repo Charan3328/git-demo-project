@@ -1,0 +1,16 @@
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\bin\Debug\net5.0\RainbowSchool.exe
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\bin\Debug\net5.0\RainbowSchool.deps.json
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\bin\Debug\net5.0\RainbowSchool.runtimeconfig.json
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\bin\Debug\net5.0\RainbowSchool.runtimeconfig.dev.json
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\bin\Debug\net5.0\RainbowSchool.dll
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\bin\Debug\net5.0\ref\RainbowSchool.dll
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\bin\Debug\net5.0\RainbowSchool.pdb
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\obj\Debug\net5.0\RainbowSchool.csproj.AssemblyReference.cache
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\obj\Debug\net5.0\RainbowSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\obj\Debug\net5.0\RainbowSchool.AssemblyInfoInputs.cache
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\obj\Debug\net5.0\RainbowSchool.AssemblyInfo.cs
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\obj\Debug\net5.0\RainbowSchool.csproj.CoreCompileInputs.cache
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\obj\Debug\net5.0\RainbowSchool.dll
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\obj\Debug\net5.0\ref\RainbowSchool.dll
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\obj\Debug\net5.0\RainbowSchool.pdb
+C:\Users\10069851\source\repos\Phase1_project\RainbowSchool\obj\Debug\net5.0\RainbowSchool.genruntimeconfig.cache
